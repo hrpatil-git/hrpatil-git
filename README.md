@@ -1,15 +1,6 @@
 <h1 align="center">Hi there👋, I'm Harshwardhan Raghunath Patil</h1>
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/43771203?v=4" alt="harshwardhan" width="250" />
-<h3>Connect, Aspire and Create to Inspire!</h3>
-</div>
-
-
-
-# About Me
-
-### Graduate Student at Indiana University, Bloomington Majoring in Data Science
+### I am a Graduate Student at Indiana University, Bloomington Majoring in Data Science.
 
 ### Interests: Machine Learning, Deep Learning, NLP. 
 
