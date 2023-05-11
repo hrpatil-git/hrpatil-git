@@ -64,13 +64,13 @@
 <br/>
 
 
-# Past-Projects:
+<!-- # Past-Projects:
 
 - **[Email Spam and Ham Detection](https://github.com/hrpatil-git/Spam-Detection)** : Implemented Naive Bayes to detect whether am email is ham or spam with 98% accuracy.
 
 - **[Devnagari-Character-Recognition](https://github.com/hrpatil-git/Devnagari-Character-Recognition)**: Build classifiers using logistic regression and using neural networks to accurately classify 37 devnagari characters and achieved highest accuracy of 97% with the help of neural networks.
 
-<br/>
+<br/> -->
 
 #
 <h3 align="center">Connect with me:</h3>
