@@ -40,6 +40,7 @@
 
 ## Currently Learning:
 - I am currenlt undergoing youtube tutorials by Prof. Andrej Karpathy which mainly focuses on Deep Learning.
+- AWS Certified Solutions Architect - Associate 
 
 ## Current Projects:
 - Building Micrograd
