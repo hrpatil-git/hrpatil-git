@@ -15,6 +15,7 @@
 ### Interests: Machine Learning, Deep Learning, NLP. 
 
 ### Achievements/Certifications:
+- Google Certified: Advanced Data Analytics
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
